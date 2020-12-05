@@ -6,7 +6,7 @@ import sqlite3
 CACHE_FILENAME = "trefle_cache.json"
 CACHE_DICT = {}
 
-trefle_token = 'kbmEL0Dn4kHt-vypERGA2X_ZrTSmFyL_asoClCM_ISM'
+trefle_token = 'hidden'
 
 def open_cache():
     try:
