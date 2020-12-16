@@ -1,5 +1,7 @@
 # MichiganPlants
 
+Link to YouTube video: https://www.youtube.com/watch?v=BxUwoK4eUJQ
+
 SI 507 Final Project
 by Jackie Edinger
 
